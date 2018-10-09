@@ -10,7 +10,10 @@ import java.util.Locale;
 import java.util.*;
 /**
  *
- * @author Dani
+ * @author Yogi Arif Widodo
+ * www.scodeid.blogspot.com
+ * www.scode.id
+ * 17615006
  */
 public class LatihanInput3 
 {

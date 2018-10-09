@@ -10,7 +10,10 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dani
+ * @author Yogi Arif Widodo
+ * www.scodeid.blogspot.com
+ * www.scode.id
+ * 17615006
  */
 public class LatihanInput2 {
     public static void main(String[] args) {

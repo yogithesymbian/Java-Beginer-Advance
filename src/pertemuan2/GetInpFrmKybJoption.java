@@ -6,10 +6,12 @@
 package pertemuan2;
 
 import javax.swing.*;
-
 /**
  *
- * @author Dani
+ * @author Yogi Arif Widodo
+ * www.scodeid.blogspot.com
+ * www.scode.id
+ * 17615006
  */
 public class GetInpFrmKybJoption {
     public static void main(String[] args) {

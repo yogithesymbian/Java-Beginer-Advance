@@ -7,7 +7,10 @@ package oop_3ati_17615006;
 
 /**
  *
- * @author Dani
+ * @author Yogi Arif Widodo
+ * www.scodeid.blogspot.com
+ * www.scode.id
+ * 17615006
  */
 public class OOP_3ATI_17615006 {
 

@@ -7,7 +7,10 @@ package pertemuan3;
 
 /**
  *
- * @author Dani
+ * @author Yogi Arif Widodo
+ * www.scodeid.blogspot.com
+ * www.scode.id
+ * 17615006
  */
 public class GradeSample {
     public static void main(String[] args) {

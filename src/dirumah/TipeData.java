@@ -7,7 +7,10 @@ package dirumah;
 
 /**
  *
- * @author Dani
+ * @author Yogi Arif Widodo
+ * www.scodeid.blogspot.com
+ * www.scode.id
+ * 17615006
  */
 public class TipeData { //camel case nama gaya nya ( awal besar )
                         //kata benda untuk class
