@@ -41,7 +41,8 @@ Rentang nilai yang diberikan adalah sbb:
 	E adalah 9  sd 44
     */
     /*
-    Hitung pangkat sebuah nilai berdasarkan angka dan nilai pangkatnya buat kedalam tiga versi dari program ini menggnakan while loop do while dan for loop
+    Hitung pangkat sebuah nilai berdasarkan angka dan nilai pangkatnya buat kedalam tiga versi dari program ini menggnakan while loop 
+    do while dan for loop
     gunakan joptionpane 
     
     sebuah rental vcd memberika persyaratan waktu peminjaman . jika jumlah vcd yang di pinjam 1 buah maka waktu peminjamanya 2 hari
@@ -56,5 +57,12 @@ Rentang nilai yang diberikan adalah sbb:
     hotel merah delima mempnyai si tg penginapan, dgn input lama menginap dan hrg kamar
     
     jumlah bayar dihitung dari lama menginap dikali dengan hrg kamar /hari harga
+    */
+    
+    
+    /*
+    before
+    
+    
     */
 }
