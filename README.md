@@ -1,6 +1,6 @@
 ## Welcome to Java Page Beginer until Advance
 
-Sebuah page hasil coding awal pertama saya, sampai sekarang.
+Sebuah page hasil coding awal pertama saya di NetBeans, sampai sekarang.
 
 You can use the [editor on GitHub](https://github.com/yogithesymbian/Java-Beginer-Advance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
