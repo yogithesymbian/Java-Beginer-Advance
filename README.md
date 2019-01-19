@@ -2,6 +2,8 @@
 
 Sebuah page hasil coding awal pertama saya di NetBeans, sampai sekarang.
 
+Beberapa details tutorial sebagian saya simpan di [web](https://scode.id), [blog](https://scodeid.blogspot.com/), dan [youtube](https://www.youtube.com/channel/UCfcx5D3PpflijYZpxRcBUUg)
+
 You can use the [editor on GitHub](https://github.com/yogithesymbian/Java-Beginer-Advance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
