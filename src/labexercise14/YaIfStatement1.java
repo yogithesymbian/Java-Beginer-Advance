@@ -3,16 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pertemuan3;
+package labexercise14;
 
 /**
  *
- * @author Yogi Arif Widodo
- * www.scodeid.blogspot.com
- * www.scode.id
- * 17615006
+ * @author Dani
  */
-public class GradeSample {
+public class YaIfStatement1 {
     public static void main(String[] args) {
         double yogiGrade = 92.0;
         
@@ -24,12 +21,12 @@ public class GradeSample {
         else if((yogiGrade < 90) && (yogiGrade >=80)) // ==== 80 --> 89
         {
             //oh yea
-            System.out.println("Good Good");
+            System.out.println("Verry Good");
         }
         else if((yogiGrade <80) && (yogiGrade >=60))
         {
             //well
-            System.out.println("Study Harder!");
+            System.out.println("good!");
         }
         else
         {

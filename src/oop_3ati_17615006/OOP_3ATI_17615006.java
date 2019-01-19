@@ -5,6 +5,7 @@
  */
 package oop_3ati_17615006;
 
+
 /**
  *
  * @author Yogi Arif Widodo
@@ -18,7 +19,8 @@ public class OOP_3ATI_17615006 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Yogi");
+        pertemuan9.AyamDiaEnak yogi = new pertemuan9.AyamDiaEnak();
+        yogi.setVisible(true);
         
     }
     

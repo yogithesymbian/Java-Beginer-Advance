@@ -16,6 +16,7 @@ import dirumah.ImportClassku;
  */
 public class Hello 
 {
+    String nim ;
     /**
      * My First Hello World
      */
@@ -27,5 +28,20 @@ public class Hello
         ImportClassku yoginih;
         yoginih = new ImportClassku();
         yoginih.cetakHello();
+        
+        //constructor
+        Hello yogi = new Hello();
+        System.out.println("nim" +yogi.nim);
+        
+        
+    }
+
+    public void halodunia()
+    {
+        
+    }
+    public Hello() 
+    {
+        nim = "";
     }
 }

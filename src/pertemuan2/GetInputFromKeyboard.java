@@ -15,17 +15,17 @@ import java.io.IOException;
  * www.scode.id
  * 17615006
  */
-public class GetInputFromKeyboard 
+public class GetInputFromKeyboard
 {
     public static void main(String[] args) 
     {
         String nama = "";
         BufferedReader dataIn;
         dataIn = new BufferedReader (new InputStreamReader(System.in));
-        
-        
+
+
        System.out.print("Please enter your name = ");
-        
+
        try
         {
           nama = dataIn.readLine();
@@ -35,7 +35,7 @@ public class GetInputFromKeyboard
             System.out.println("Error!");
         }
         System.out.println("Hello " +nama +" !");
-       
-        
+
+
     }
 }
