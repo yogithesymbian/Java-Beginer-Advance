@@ -22,7 +22,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1. Chapter 1 [ javase_intro_]
 2. List
 
 **Bold** and _Italic_ and `Code` text
