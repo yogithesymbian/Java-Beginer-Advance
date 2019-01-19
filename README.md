@@ -22,10 +22,16 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Chapter 1 [ javase_intro_]
-2. List
+1. Chapter 1 [ javase_intro ]
+2. Chapter 2 [ javase_progenv ]
+3. Chapter 3 [ javase_progbasic ]
+4. Chapter 4 [ javase_inputkey ]
+5. Chapter 5 [ javase control ]
+6. Chapter 6 [ javase array ]
+7. Chapter 7 [ javase class and create class ]
 
-**Bold** and _Italic_ and `Code` text
+
+**GUI** and _Italic_ and `Code` INHERITANCE , POLYMORPHISM, INSTANCE, Lab exercise struktur control, and Java array 
 
 [Link](url) and ![Image](src)
 ```
